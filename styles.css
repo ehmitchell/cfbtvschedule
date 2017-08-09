@@ -1,0 +1,53 @@
+
+.green{
+	background-color: darkgreen;
+}
+
+.black{
+	background-color: black;
+}
+.garnet, .red{
+	background-color: maroon;
+}
+.maroon {
+    background-color:#660000;
+}
+.navy {
+    background-color:navy;
+}
+.blue {
+    background-color:blue;
+}
+.brown {
+    background-color:#331900;
+}
+.purple{
+	background-color: indigo;
+}
+.yellowText{
+	color: gold;
+}
+.orangeText{
+	color: orangered;
+}
+.blueText {
+    color:blue;
+}
+.whiteText {
+    color:white;
+}
+.first{
+	color: #db2828;
+}
+.second{
+	color: #f2711c;
+}
+.third{
+	color: #fbbd08;
+}
+.fourth{
+	color: #21ba45;
+}
+.date, .ui.striped.table tbody tr.date:nth-child(2n), .ui.striped.table>tr.date:nth-child(2n){
+    background-color: lightblue;
+}
